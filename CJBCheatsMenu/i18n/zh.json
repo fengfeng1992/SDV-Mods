@@ -182,12 +182,12 @@
 
     // island
     // TODO
-    "warp-section.island": "Ginger Island",
-    "warp.forge": "Forge",
-    "warp.island-farm": "Island Farm",
-    "warp.dwarf-shop": "Volcano Dwarf Shop",
-    "warp.field-office": "Field Office",
-    "warp.leo-house": "Leo's House",
+    "warp-section.island": "姜岛",
+    "warp.forge": "锻造台",
+    "warp.island-farm": "岛屿的农场",
+    "warp.dwarf-shop": "矮人的商店",
+    "warp.field-office": "考古学家的帐篷",
+    "warp.leo-house": "雷欧的家",
 
 
     /*********
